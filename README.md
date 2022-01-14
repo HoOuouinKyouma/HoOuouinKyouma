@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m Ferhat
+- I'm a crazy software developer.
 - 👀 I'm interested in all programming languages.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on all kinds of crazy projects.
