@@ -3,7 +3,7 @@
 - 👀 I'm interested in all programming languages.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on all kinds of crazy projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoOuouinKyouma)](https://github.com/HoOuouinKyouma/github-readme-stats)
